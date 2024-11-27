@@ -11,19 +11,7 @@ This project demonstrates a simple parallax scrolling website using HTML and CSS
 - **Thematic Sections:** Includes both light and dark themed content sections.
 - **Customizable:** Easy to modify with different background images, text, and styles.
 
----
 
-## File Structure
-
-
-.
-├── index.html         # Main HTML file
-├── project8.css       # Stylesheet for the project
-├── images/
-│   ├── image1.png     # Background image 1
-│   ├── image2.png     # Background image 2
-│   ├── image3.png     # Background image 3
-└── README.md          # Documentation
 
 ##How to Use
 Clone or Download this repository.
